@@ -2,6 +2,6 @@
 
 export const Home = () => {
     return (
-        "Tela home desenvolvida"
+        "Tela home desenvolvida / Ajustes no login"
     )
 }
